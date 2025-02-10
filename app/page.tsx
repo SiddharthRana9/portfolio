@@ -7,7 +7,7 @@ import Grid from "@/components/Grid";
 import Footer from "@/components/Footer";
 import Experience from "@/components/Experience";
 import RecentProjects from "@/components/RecentProjects";
-import { FloatingNav } from "@/components/ui/FloatingNavbar";
+
 
 const Home = () => {
   return (
